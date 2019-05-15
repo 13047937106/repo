@@ -1,9 +1,10 @@
 package com.test;
 
 public class Test {
-  public static void main(Strign argc[])
+    private int a;
+  public static void main(String argc[])
   {
-    System.out.println("Hello Word!")
+    System.out.println("Hello Word!");
   }
 
 }
