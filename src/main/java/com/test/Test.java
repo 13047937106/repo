@@ -5,6 +5,7 @@ public class Test {
   public static void main(String argc[])
   {
     System.out.println("Hello Word!");
+    System.out.println("第二次添加");
   }
 
 }
